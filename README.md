@@ -7,7 +7,14 @@
 
 כעת תוכלו להעתיק (או לגזור) את הקובץ "design_text.bat" בו נמצאת התוצאה המעוצבת
 
+
+</div>
+<div id="header" align="center">
+ 
 **בהנאה!😊**
+
+
+</div>
 
 ----
 
