@@ -31,7 +31,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/NHLOCAL/batch-designer/blob/main/pictures/מקור.png" width="600"/>
+  <img src="https://github.com/NHLOCAL/batch-designer/blob/main/inside/מקור.png" width="600"/>
 
 </div>
 <div id="header" align="center">
@@ -41,4 +41,4 @@
 </div>
 
 <div id="header" align="center"> 
-  <img src="https://github.com/NHLOCAL/batch-designer/blob/main/pictures/יעד.png" width="600"/>
+  <img src="https://github.com/NHLOCAL/batch-designer/blob/main/inside/יעד.png" width="600"/>
