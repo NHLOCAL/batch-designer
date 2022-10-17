@@ -255,7 +255,8 @@ for /l %%i in (1,1,%a%) do (call :for_l)
 
 ::הכנסת התוצאה לקובץ חדש
 echo echo%line%>>design_text.bat
-
+::העתקה ללוח
+type design_text.bat | clip
 ::יציאה מהפונקציה
 exit /b
 
